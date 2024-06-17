@@ -14,64 +14,38 @@
 - 📫 How to reach me **temgiredinesh2003@gmail.com**
 
 - ⚡ My Hobbies are **Gaming and Anime**
+# 💻 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## Frontend 🧑‍💻
 
-<h3 align="left"> Programming Languages:</h3>
-<p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin-right: 50px;"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin-right: 50px;"/>
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-right: 50px;"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 50px;"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 50px;"/>
-    </a>
-</p>
+[![HTML](https://skillicons.dev/icons?i=html&perline=3)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css&perline=3)](https://skillicons.dev)
+[![Javascript](https://skillicons.dev/icons?i=javascript&perline=3)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react&perline=3)](https://skillicons.dev)
+[![NextJs](https://skillicons.dev/icons?i=nextjs&perline=3)](https://skillicons.dev)
+[![Redux](https://skillicons.dev/icons?i=redux&perline=3)](https://skillicons.dev)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap&perline=3)](https://skillicons.dev)
 
-<h3 align="left">Frontend Technologies :</h3>
-<p align="left">
-    <a href="https://backbonejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40" style="margin-right: 50px;"/>
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin-right: 50px;"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-right: 50px;"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin-right: 50px;"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin-right: 50px;"/>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin-right: 50px;"/>
-    </a>
-</p>
+## Backend 🤕
 
-<h3 align="left">Backend Technologies :</h3>
-<p align="left">
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="margin-right: 50px;"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin-right: 50px;"/>
-    </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="margin-right: 50px;"/>
-    </a>
-</p>
+[![NodeJs](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev)
+[![ExpressJs](https://skillicons.dev/icons?i=express&perline=3)](https://skillicons.dev)
+[![MongoDb](https://skillicons.dev/icons?i=mongodb&perline=3)](https://skillicons.dev)
+[![MySQl](https://skillicons.dev/icons?i=mysql&perline=3)](https://skillicons.dev)
+[![php](https://skillicons.dev/icons?i=php&perline=3)](https://skillicons.dev)
+[![c](https://skillicons.dev/icons?i=c&perline=3)](https://skillicons.dev)
+[![java](https://skillicons.dev/icons?i=java&perline=3)](https://skillicons.dev)[![python](https://skillicons.dev/icons?i=python&perline=3)](https://skillicons.dev)
+
+## Others
+
+[![Vercel](https://skillicons.dev/icons?i=vercel&perine=3)](https://skillicons.dev)
+[![docker](https://skillicons.dev/icons?i=docker&perline=3)](https://skillicons.dev)
+[![git](https://skillicons.dev/icons?i=git&perline=3)](https://skillicons.dev)
+[![github](https://skillicons.dev/icons?i=github&perline=3)](https://skillicons.dev)
+[![vscode](https://skillicons.dev/icons?i=vscode&perline=3)](https://skillicons.dev)
+
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=temgire&show_icons=true&locale=en&layout=compact" alt="temgire" /></p>
 
