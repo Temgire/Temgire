@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Cloud with AWS and AZURE**
 
+-  👨‍💻 Know more about me  [https://github.com/Temgire](https://temgire.github.io/Dinesh_Portfolio/)
+
 - 👨‍💻 All of my projects are available at [https://github.com/Temgire](https://github.com/Temgire)
 
 - 💬 You can Ask me about **MERN and DSA with C++**
