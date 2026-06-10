@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Temgire](https://github.com/Temgire)
 
-- 💬 You can Ask me about **MERN and DSA with C++**
+- 💬 You can Ask me about **JAVA Full Stack and DSA with JAVA**
 
 - 📫 How to reach me **temgiredinesh2003@gmail.com**
 
